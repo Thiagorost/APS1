@@ -1,6 +1,12 @@
 # aps2
 
-A new Flutter project.
+Projeto semestral do curso de Engenharia de Computação.
+
+Casa automatizada IOT.
+
+DESCRIÇÃO
+
+Até o momento conectamos o flutter ao firebase e o firebase ao modulo esp8266, sendo assim conseguimos acender e apagar um LED por meio de um aplicativo.
 
 ## Getting Started
 
