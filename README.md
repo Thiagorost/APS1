@@ -8,6 +8,11 @@ DESCRIÇÃO
 
 Até o momento conectamos o flutter ao firebase e o firebase ao modulo esp8266, sendo assim conseguimos acender e apagar um LED por meio de um aplicativo.
 
+CONFIGURAÇÃO DO FLUTTER NO FIREBASE.
+
+https://rushankshah65.medium.com/how-to-make-an-iot-app-using-flutter-firebase-and-nodemcu-esp8266-b7a0a8c390ee
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
